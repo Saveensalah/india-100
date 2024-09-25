@@ -1,0 +1,6 @@
+FONTS - available in google fonts
+---------------------------------------------------------
+INDIA@100 LOGO : Bebas Neue
+Heading: Arapey
+Body: Poppins
+
